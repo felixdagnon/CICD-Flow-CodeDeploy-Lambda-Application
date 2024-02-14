@@ -45,12 +45,10 @@ $ git push
 
 ![image](https://github.com/felixdagnon/CICDFlow-CodeDeploy-LambdaApplication/assets/91665833/971ce5d3-8646-439b-af5f-6c5e45f3683b)
 
-
-
-
 ![image](https://github.com/felixdagnon/CICDFlow-CodeDeploy-LambdaApplication/assets/91665833/f067bbbd-5fdd-44d2-b5a5-6a26ab9522ca)
 
-![image](https://github.com/felixdagnon/CICDFlow-CodeDeploy-LambdaApplication/assets/91665833/aeea514d-21ee-4b9a-bdff-5f347f3dcc31)
+![image](https://github.com/felixdagnon/CICDFlow-CodeDeploy-LambdaApplication/assets/91665833/52412a61-db12-4fca-8b7a-c34568423c98)
+
 
 
 
