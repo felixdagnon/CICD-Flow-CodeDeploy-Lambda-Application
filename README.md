@@ -64,6 +64,11 @@ $ git push
 
 ![image](https://github.com/felixdagnon/CICDFlow-CodeDeploy-LambdaApplication/assets/91665833/9dfd2fa1-c496-4cda-8d38-a562926708d7)
 
+### Deploy stage
+
+![image](https://github.com/felixdagnon/CICDFlow-CodeDeploy-LambdaApplication/assets/91665833/333d196c-7b1f-4440-b369-0e28e5f7eada)
+
+
 
 
 
