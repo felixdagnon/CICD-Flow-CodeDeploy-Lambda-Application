@@ -41,7 +41,9 @@ $ git push
 
 ![image](https://github.com/felixdagnon/CICDFlow-CodeDeploy-LambdaApplication/assets/91665833/786ac403-2326-416c-8b11-9a92505ed4fc)
 
-![image](https://github.com/felixdagnon/CICDFlow-CodeDeploy-LambdaApplication/assets/91665833/ac780b74-f496-4b51-b154-7bda83ce65fd)
+![image](https://github.com/felixdagnon/CICDFlow-CodeDeploy-LambdaApplication/assets/91665833/ac780b74-f496-4b51-b154-7bda83ce65fd
+
+### Create project
 
 ![image](https://github.com/felixdagnon/CICDFlow-CodeDeploy-LambdaApplication/assets/91665833/971ce5d3-8646-439b-af5f-6c5e45f3683b)
 
