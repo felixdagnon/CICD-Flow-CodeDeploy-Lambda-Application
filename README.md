@@ -55,6 +55,13 @@ $ git push
 
 ![image](https://github.com/felixdagnon/CICDFlow-CodeDeploy-LambdaApplication/assets/91665833/dcc8c69b-3091-44c4-a1fb-bb12c88a9a17)
 
+![image](https://github.com/felixdagnon/CICDFlow-CodeDeploy-LambdaApplication/assets/91665833/835e83f4-0622-4f4d-a2c4-7f6891cdc786)
+
+### Project successful create in pipeline
+
+![image](https://github.com/felixdagnon/CICDFlow-CodeDeploy-LambdaApplication/assets/91665833/9dfd2fa1-c496-4cda-8d38-a562926708d7)
+
+
 
 
 
