@@ -45,6 +45,14 @@ I use git commands (git add -A,  git commit -m "Add sample application file", gi
 
 Code files pushed in CodeCommit repo
 
+Ok there are three files:
+
+Buildspec.yml is for the CodeBuild
+
+template.yml is the CloudFormation SAM template that will create resources like API Gateway, and Lambda. Attach the API gateway with Lambda and deploy the code into the Lambda function. 
+
+lambda_funtion.py is the file of code that will be deployed into lambda. 
+
 ![image](https://github.com/felixdagnon/CICDFlow-CodeDeploy-LambdaApplication/assets/91665833/b0f0d02d-195b-48cc-9bf5-fda79473b1c5)
 
 buildspec.yml
@@ -52,6 +60,10 @@ buildspec.yml
 ![image](https://github.com/felixdagnon/CICDFlow-CodeDeploy-LambdaApplication/assets/91665833/130be1c5-5cf7-49f5-9ce0-52e319729fab)
 
 lambda_function.py
+
+This is just a “Hello World” Python code deploying on lambda.
+
+whenever we will create something to deploy in lambda I always need to do it using a “handler” function.
 
 ![image](https://github.com/felixdagnon/CICDFlow-CodeDeploy-LambdaApplication/assets/91665833/8e057892-83f6-44f0-84b6-ccf8c541bbbb)
 
