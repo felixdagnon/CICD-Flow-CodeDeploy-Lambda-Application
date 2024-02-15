@@ -39,11 +39,7 @@ I will store all code in CodeCommit repository.
 
 Clone the repo in Cloud9 and upload files.
 
-I use git commands:
-
-$ git add -A
-$ git commit -m "Add sample application file"
-$ git push
+I use git commands (git add -A,  git commit -m "Add sample application file", git push)
 
 ![image](https://github.com/felixdagnon/CICDFlow-CodeDeploy-LambdaApplication/assets/91665833/9dc84819-cfcb-48b7-aeb7-194a8783fde7)
 
