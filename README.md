@@ -55,19 +55,21 @@ lambda_funtion.py is the file of code that will be deployed into lambda.
 
 ![image](https://github.com/felixdagnon/CICDFlow-CodeDeploy-LambdaApplication/assets/91665833/b0f0d02d-195b-48cc-9bf5-fda79473b1c5)
 
-buildspec.yml
+### buildspec.yml
+
+This will be used in Codebuild and artifact wil save in a s3 bucket name “codepipeline-lambda-bucket-demo”. Create s3 bucket according to the buildspec.yml.
 
 ![image](https://github.com/felixdagnon/CICDFlow-CodeDeploy-LambdaApplication/assets/91665833/130be1c5-5cf7-49f5-9ce0-52e319729fab)
 
-lambda_function.py
+### lambda_function.py
 
 This is just a “Hello World” Python code deploying on lambda.
 
-whenever we will create something to deploy in lambda I always need to do it using a “handler” function.
+whenever I will create something to deploy in lambda I always need to do it using a “handler” function.
 
 ![image](https://github.com/felixdagnon/CICDFlow-CodeDeploy-LambdaApplication/assets/91665833/8e057892-83f6-44f0-84b6-ccf8c541bbbb)
 
-template.yml
+### template.yml
 
 ![image](https://github.com/felixdagnon/CICDFlow-CodeDeploy-LambdaApplication/assets/91665833/cdc82ad6-7435-4b2b-b99d-43b0c4bac920)
 
