@@ -1,5 +1,16 @@
 # CICD Pipeline using AWS DevOps (Cloud9, CodeCommit, CodeBuild, S3, CloudFormation(SAM), Lambda, API Gateway)
-CD/CD flow CodeDeploy for lambda application
+
+Here I create CICD pipeline flow  for a serverless application. It's works in my environment.
+
+(Always create an IAM user, and add policies according to your need. Never use root account).
+
+Follow Best Practices for Cloud Security with AWS IAM: Managing Groups, Policies, and Roles
+
+
+CodeCommit -
+
+We will store all of our code in CodeCommit(It is the same as GitHub, using git commands we can commit, push and pull code) let's create a CodeCommit repository first and push our code.
+
 
 ![image](https://github.com/felixdagnon/CICDFlow-CodeDeploy-LambdaApplication/assets/91665833/19d85248-91dd-4967-8b06-7152609ce845)
 
