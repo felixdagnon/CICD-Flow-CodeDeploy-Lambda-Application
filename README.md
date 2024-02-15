@@ -19,7 +19,8 @@ CD/CD flow CodeDeploy for lambda application
 
 ## Create S3 bucket for CodePipeline
 
-![image](https://github.com/felixdagnon/CICDFlow-CodeDeploy-LambdaApplication/assets/91665833/00827672-ea6b-4a1e-8405-b0601bd901f2)
+![image](https://github.com/felixdagnon/CICDFlow-CodeDeploy-LambdaApplication/assets/91665833/39a3c393-ad68-4345-84ec-c87972f88129)
+
 
 ## Create CodCommit Repo and put the staff in
 
