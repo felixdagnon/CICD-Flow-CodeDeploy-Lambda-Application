@@ -155,6 +155,17 @@ PS: there was a command in buildspec, which is creating the “outputtemplate.ym
 ![image](https://github.com/felixdagnon/CICDFlow-CodeDeploy-LambdaApplication/assets/91665833/ac3510d9-3a41-436a-837c-f0f36fc6eda5)
 
 
+# Pipeline is created but I will edit the deploy stage
+
+![image](https://github.com/felixdagnon/CICDFlow-CodeDeploy-LambdaApplication/assets/91665833/a647c6a9-4f89-4a2b-97ef-a3df935bbf08)
+
+![image](https://github.com/felixdagnon/CICDFlow-CodeDeploy-LambdaApplication/assets/91665833/02da5a9c-4923-483c-a45c-ccde2e4b39bd)
+
+![image](https://github.com/felixdagnon/CICDFlow-CodeDeploy-LambdaApplication/assets/91665833/8cb94d38-e8d3-4859-9d5d-765a09eaf6b3)
+
+
+
+
 
 
 
