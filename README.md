@@ -120,7 +120,7 @@ Choosing a project name here
 
 ![image](https://github.com/felixdagnon/CICDFlow-CodeDeploy-LambdaApplication/assets/91665833/52412a61-db12-4fca-8b7a-c34568423c98)
 
-Here in the environment we are choosing, operating system as linux Runtime Standard and the latest image 7.0
+Here in the environment I am choosing, operating system as linux Runtime Standard and the latest image 5.0 and the first role created for CodeBuild.
 
 ![image](https://github.com/felixdagnon/CICDFlow-CodeDeploy-LambdaApplication/assets/91665833/ebc547f5-1929-46a8-afbc-d11b3e72d479)
 
