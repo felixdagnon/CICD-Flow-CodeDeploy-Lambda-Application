@@ -7,10 +7,6 @@ Here I create CICD pipeline flow  for a serverless application. It's works in my
 Follow Best Practices for Cloud Security with AWS IAM: Managing Groups, Policies, and Roles
 
 
-CodeCommit -
-
-We will store all of our code in CodeCommit(It is the same as GitHub, using git commands we can commit, push and pull code) let's create a CodeCommit repository first and push our code.
-
 
 ![image](https://github.com/felixdagnon/CICDFlow-CodeDeploy-LambdaApplication/assets/91665833/19d85248-91dd-4967-8b06-7152609ce845)
 
@@ -35,9 +31,15 @@ We will store all of our code in CodeCommit(It is the same as GitHub, using git 
 
 ## Create CodCommit Repo and put the staff in
 
+let's create a CodeCommit repository first and push our code from Cloud9 IDE.
+
+I will store all code in CodeCommit repository.
+
 ![image](https://github.com/felixdagnon/CICDFlow-CodeDeploy-LambdaApplication/assets/91665833/802323ca-7154-4340-9907-587719e89065)
 
-Clone the repo in Cloud9 and upload files and execute command
+Clone the repo in Cloud9 and upload files.
+
+I use git commands:
 
 $ git add -A
 $ git commit -m "Add sample application file"
