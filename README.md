@@ -1,5 +1,6 @@
 # CICD Pipeline using AWS DevOps (Cloud9, CodeCommit, CodeBuild, S3, CloudFormation(SAM), Lambda, API Gateway)
 
+
 Here I create CICD pipeline flow  for a serverless application. It's works in my environment.
 
 (Always create an IAM user, and add policies according to your need. Never use root account).
@@ -7,16 +8,26 @@ Here I create CICD pipeline flow  for a serverless application. It's works in my
 Follow Best Practices for Cloud Security with AWS IAM: Managing Groups, Policies, and Roles
 
 
-
 ![image](https://github.com/felixdagnon/CICDFlow-CodeDeploy-LambdaApplication/assets/91665833/19d85248-91dd-4967-8b06-7152609ce845)
 
-## CodeBuild
+
+# IAM Roles and policies 
+
+lets create some IAM role and policies that will allow us to create the pipeline.
 
 ## Create Iam role for CodeBuild
 
+Here I created a role for codebuild named — “codebuild-s3-cloudwatch” 
+
+Then I added “AmazonS3FullAccess” and “CloudWatchFullAccess” policy to this role.
+
 ![image](https://github.com/felixdagnon/CICDFlow-CodeDeploy-LambdaApplication/assets/91665833/52368426-13b8-4101-9ffd-20346792107f)
 
-## Create role for CodeDeploy use cloudformation for policies with AWSLambdaExecute permission and add inline policy
+## Create role for CodeDeploy 
+
+Here I create another role name — “cfn-codepipeline-cft” for CodeDeploy and added two policy one is — “AWSLambdaExecute” 
+
+and created ajson inline policy named — “policyToDeployUsingCloudFormation”. 
 
 ![image](https://github.com/felixdagnon/CICDFlow-CodeDeploy-LambdaApplication/assets/91665833/4595b200-bc15-4cdf-a0c6-a6c3755a4040)
 
@@ -71,7 +82,10 @@ whenever I will create something to deploy in lambda I always need to do it usin
 
 ### template.yml
 
+This is the template.yml file which will create a lambda function and a API Gateway(with only GET method) and deploy the code into the lambda function.
+
 ![image](https://github.com/felixdagnon/CICDFlow-CodeDeploy-LambdaApplication/assets/91665833/cdc82ad6-7435-4b2b-b99d-43b0c4bac920)
+
 
 
 
