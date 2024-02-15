@@ -108,11 +108,13 @@ I choose my Source provider AWS CodeCommit , choose the repository name and choo
 ![image](https://github.com/felixdagnon/CICDFlow-CodeDeploy-LambdaApplication/assets/91665833/971ce5d3-8646-439b-af5f-6c5e45f3683b)
 
 
-### CodeBuild 
+### CodeBuild
+
+I choose my Source provider AWS CodeBuild and in another tab creating the a build project
 
 ![image](https://github.com/felixdagnon/CICDFlow-CodeDeploy-LambdaApplication/assets/91665833/f067bbbd-5fdd-44d2-b5a5-6a26ab9522ca)
 
-Now in another tab we are creating the a build project
+Build project
 
 ![image](https://github.com/felixdagnon/CICDFlow-CodeDeploy-LambdaApplication/assets/91665833/52412a61-db12-4fca-8b7a-c34568423c98)
 
