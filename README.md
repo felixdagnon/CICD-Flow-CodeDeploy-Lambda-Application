@@ -99,21 +99,20 @@ Here I am creating a pipeline and let the AWS to create a role us using this nam
 
 ![image](https://github.com/felixdagnon/CICDFlow-CodeDeploy-LambdaApplication/assets/91665833/786ac403-2326-416c-8b11-9a92505ed4fc)
 
+### CodeCommit
 
 I choose my Source provider AWS CodeCommit , choose the repository name and choose the branch name.
 
 ![image](https://github.com/felixdagnon/CICDFlow-CodeDeploy-LambdaApplication/assets/91665833/ac780b74-f496-4b51-b154-7bda83ce65fd)
 
-CodeBuild 
-
 ![image](https://github.com/felixdagnon/CICDFlow-CodeDeploy-LambdaApplication/assets/91665833/971ce5d3-8646-439b-af5f-6c5e45f3683b)
 
 
-Now in another tab we are creating the a build project
-
-### Create project
+### CodeBuild 
 
 ![image](https://github.com/felixdagnon/CICDFlow-CodeDeploy-LambdaApplication/assets/91665833/f067bbbd-5fdd-44d2-b5a5-6a26ab9522ca)
+
+Now in another tab we are creating the a build project
 
 ![image](https://github.com/felixdagnon/CICDFlow-CodeDeploy-LambdaApplication/assets/91665833/52412a61-db12-4fca-8b7a-c34568423c98)
 
