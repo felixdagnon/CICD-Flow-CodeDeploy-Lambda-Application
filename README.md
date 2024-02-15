@@ -183,6 +183,8 @@ The deploy stage of pipeline is comlete now. The first action group is edited to
 
 ![image](https://github.com/felixdagnon/CICDFlow-CodeDeploy-LambdaApplication/assets/91665833/b2e184e6-781b-483d-8169-3bb24e7aa515)
 
+![image](https://github.com/felixdagnon/CICDFlow-CodeDeploy-LambdaApplication/assets/91665833/3ca8e2fa-1109-4b4b-8d18-e1622c181110)
+
 ### The lambda code 
 
 ![image](https://github.com/felixdagnon/CICDFlow-CodeDeploy-LambdaApplication/assets/91665833/bf481136-0ca1-4173-8839-6d484cfe24ea)
