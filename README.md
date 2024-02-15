@@ -116,6 +116,8 @@ I choose my Source provider AWS CodeBuild and in another tab creating the a buil
 
 Build project
 
+Choosing a project name here
+
 ![image](https://github.com/felixdagnon/CICDFlow-CodeDeploy-LambdaApplication/assets/91665833/52412a61-db12-4fca-8b7a-c34568423c98)
 
 ![image](https://github.com/felixdagnon/CICDFlow-CodeDeploy-LambdaApplication/assets/91665833/ebc547f5-1929-46a8-afbc-d11b3e72d479)
