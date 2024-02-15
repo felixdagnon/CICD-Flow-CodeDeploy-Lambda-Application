@@ -167,6 +167,16 @@ in Action provider, choose CloudFormation. Input artifact, BuildArtifact. And he
 
 ![image](https://github.com/felixdagnon/CICDFlow-CodeDeploy-LambdaApplication/assets/91665833/38e3d0b5-c301-441d-a086-68ecec2b48d6)
 
+The deploy stage of pipeline is comlete now. The first action group is edited to “create-changeset”
+
+![image](https://github.com/felixdagnon/CICDFlow-CodeDeploy-LambdaApplication/assets/91665833/2245dc0f-ac13-46ff-bf0f-375ae3955916)
+
+Pipeline looking
+
+![image](https://github.com/felixdagnon/CICDFlow-CodeDeploy-LambdaApplication/assets/91665833/4b8ec2e6-99b5-436d-add0-443789462a39)
+
+
+
 
 
 
