@@ -126,7 +126,7 @@ Here in the environment I am choosing, operating system as linux Runtime Standar
 
 ![image](https://github.com/felixdagnon/CICDFlow-CodeDeploy-LambdaApplication/assets/91665833/2c6bbd69-fa1a-4da1-89dc-2d42b2fe48d5)
 
-Choosing the buildproject created
+Choosing the build project created
 
 ![image](https://github.com/felixdagnon/CICDFlow-CodeDeploy-LambdaApplication/assets/91665833/dcc8c69b-3091-44c4-a1fb-bb12c88a9a17)
 
