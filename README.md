@@ -140,9 +140,20 @@ Choosing the buildproject created
 
 Here in the deployment, I am choosing AWS CloudFormation. In action mode, choosing to Create or replace a change set.
 
+And in the BuildArtifact I am choosing — outputtemplate.yml
+
+and in capabilities, I am choosing — “CAPABILITY_IAM”
+
+And I am choosing the role created previously.
+
 ![image](https://github.com/felixdagnon/CICDFlow-CodeDeploy-LambdaApplication/assets/91665833/333d196c-7b1f-4440-b369-0e28e5f7eada)
 
 ![image](https://github.com/felixdagnon/CICDFlow-CodeDeploy-LambdaApplication/assets/91665833/f69b9281-a023-4b90-8c0c-7c8938504a8b)
+
+PS: there was a command in buildspec, which is creating the “outputtemplate.yml” from “ template.yml”
+
+![image](https://github.com/felixdagnon/CICDFlow-CodeDeploy-LambdaApplication/assets/91665833/ac3510d9-3a41-436a-837c-f0f36fc6eda5)
+
 
 
 
