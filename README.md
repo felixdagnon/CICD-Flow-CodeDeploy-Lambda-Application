@@ -35,12 +35,13 @@ and created ajson inline policy named — “policyToDeployUsingCloudFormation�
 
 ![image](https://github.com/felixdagnon/CICDFlow-CodeDeploy-LambdaApplication/assets/91665833/019c1e85-1d81-4a72-a953-9afae736250f)
 
+
 ## Create S3 bucket for CodePipeline
 
 ![image](https://github.com/felixdagnon/CICDFlow-CodeDeploy-LambdaApplication/assets/91665833/39a3c393-ad68-4345-84ec-c87972f88129)
 
 
-## Create CodCommit Repo and put the staff in
+## Create CodeCommit Repo and put the staff in
 
 let's create a CodeCommit repository first called codepipeline-lambda-demo and push our code from Cloud9 IDE.
 
@@ -88,18 +89,11 @@ This is the template.yml file which will create a lambda function and a API Gate
 
 
 
-
-
-
-
-
-
-
-
-
-
-
 ## Create Pipeline
+
+Now let's create Pipeline
+
+Here I am creating a pipeline and let the AWS to create a role us using this name.
 
 ![image](https://github.com/felixdagnon/CICDFlow-CodeDeploy-LambdaApplication/assets/91665833/99e5542a-bc74-453e-a60e-cd1a8dfda490)
 
