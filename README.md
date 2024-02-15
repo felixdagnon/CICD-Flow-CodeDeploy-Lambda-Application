@@ -1,4 +1,4 @@
-# CICDFlow-CodeDeploy-LambdaApplication
+#CICD Pipeline using AWS DevOps (Cloud9, CodeCommit, CodeBuild, S3,CloudFormation(SAM), Lambda, API Gateway)
 CD/CD flow CodeDeploy for lambda application
 
 ![image](https://github.com/felixdagnon/CICDFlow-CodeDeploy-LambdaApplication/assets/91665833/19d85248-91dd-4967-8b06-7152609ce845)
