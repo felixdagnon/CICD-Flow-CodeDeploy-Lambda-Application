@@ -157,11 +157,17 @@ PS: there was a command in buildspec, which is creating the “outputtemplate.ym
 
 # Pipeline is created but I will edit the deploy stage
 
-![image](https://github.com/felixdagnon/CICDFlow-CodeDeploy-LambdaApplication/assets/91665833/a647c6a9-4f89-4a2b-97ef-a3df935bbf08)
+![image](https://github.com/felixdagnon/CICDFlow-CodeDeploy-LambdaApplication/assets/91665833/b17955df-f3f8-4f4f-83cd-74add7747f93)
 
-![image](https://github.com/felixdagnon/CICDFlow-CodeDeploy-LambdaApplication/assets/91665833/02da5a9c-4923-483c-a45c-ccde2e4b39bd)
+Edit option, in the deploy stage and select the add action group.
 
-![image](https://github.com/felixdagnon/CICDFlow-CodeDeploy-LambdaApplication/assets/91665833/8cb94d38-e8d3-4859-9d5d-765a09eaf6b3)
+![image](https://github.com/felixdagnon/CICDFlow-CodeDeploy-LambdaApplication/assets/91665833/02fa13b2-55ca-473f-97dc-b5f1ea421c90)
+
+in Action provider, choose CloudFormation. Input artifact, BuildArtifact. And here changeset and stack name should be the same as it was previously. 
+
+![image](https://github.com/felixdagnon/CICDFlow-CodeDeploy-LambdaApplication/assets/91665833/38e3d0b5-c301-441d-a086-68ecec2b48d6)
+
+
 
 
 
