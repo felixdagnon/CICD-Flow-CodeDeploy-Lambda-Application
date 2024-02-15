@@ -189,7 +189,18 @@ The deploy stage of pipeline is comlete now. The first action group is edited to
 
 ### Output
 
-let’s check the expected output after hitting the API gateway
+let’s check the expected output 
+
+![image](https://github.com/felixdagnon/CICDFlow-CodeDeploy-LambdaApplication/assets/91665833/26cbf088-cc4b-42b6-9942-7d9ec0b1063f)
+
+Let test the change : all is ook
+
+![image](https://github.com/felixdagnon/CICDFlow-CodeDeploy-LambdaApplication/assets/91665833/300d6284-3b23-46bf-b784-e9f9bfdafc16)
+
+
+
+
+
 
 
 
