@@ -31,9 +31,9 @@ Follow Best Practices for Cloud Security with AWS IAM: Managing Groups, Policies
 
 ## Create CodCommit Repo and put the staff in
 
-let's create a CodeCommit repository first and push our code from Cloud9 IDE.
+let's create a CodeCommit repository first called codepipeline-lambda-demo and push our code from Cloud9 IDE.
 
-I will store all code in CodeCommit repository.
+I will store all code in CodeCommit repository
 
 ![image](https://github.com/felixdagnon/CICDFlow-CodeDeploy-LambdaApplication/assets/91665833/802323ca-7154-4340-9907-587719e89065)
 
@@ -43,9 +43,10 @@ I use git commands (git add -A,  git commit -m "Add sample application file", gi
 
 ![image](https://github.com/felixdagnon/CICDFlow-CodeDeploy-LambdaApplication/assets/91665833/9dc84819-cfcb-48b7-aeb7-194a8783fde7)
 
-Files pushed in CodeCommit repo
+Code files pushed in CodeCommit repo
 
 ![image](https://github.com/felixdagnon/CICDFlow-CodeDeploy-LambdaApplication/assets/91665833/b0f0d02d-195b-48cc-9bf5-fda79473b1c5)
+
 
 ![image](https://github.com/felixdagnon/CICDFlow-CodeDeploy-LambdaApplication/assets/91665833/130be1c5-5cf7-49f5-9ce0-52e319729fab)
 
