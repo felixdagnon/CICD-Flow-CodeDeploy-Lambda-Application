@@ -45,6 +45,10 @@ I use git commands (git add -A,  git commit -m "Add sample application file", gi
 
 ![image](https://github.com/felixdagnon/CICDFlow-CodeDeploy-LambdaApplication/assets/91665833/b0f0d02d-195b-48cc-9bf5-fda79473b1c5)
 
+
+![image](https://github.com/felixdagnon/CICDFlow-CodeDeploy-LambdaApplication/assets/91665833/936342c3-aad5-43f8-81ea-664e27e3c411)
+
+
 ## Create Pipeline
 
 ![image](https://github.com/felixdagnon/CICDFlow-CodeDeploy-LambdaApplication/assets/91665833/99e5542a-bc74-453e-a60e-cd1a8dfda490)
