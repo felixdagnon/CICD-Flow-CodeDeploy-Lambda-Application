@@ -155,7 +155,7 @@ PS: there was a command in buildspec, which is creating the “outputtemplate.ym
 ![image](https://github.com/felixdagnon/CICDFlow-CodeDeploy-LambdaApplication/assets/91665833/ac3510d9-3a41-436a-837c-f0f36fc6eda5)
 
 
-# Pipeline is created but I will edit the deploy stage
+### Pipeline is created but I will edit the deploy stage
 
 ![image](https://github.com/felixdagnon/CICDFlow-CodeDeploy-LambdaApplication/assets/91665833/b17955df-f3f8-4f4f-83cd-74add7747f93)
 
@@ -174,6 +174,25 @@ The deploy stage of pipeline is comlete now. The first action group is edited to
 Pipeline looking
 
 ![image](https://github.com/felixdagnon/CICDFlow-CodeDeploy-LambdaApplication/assets/91665833/4b8ec2e6-99b5-436d-add0-443789462a39)
+
+### The lambda function created
+
+![image](https://github.com/felixdagnon/CICDFlow-CodeDeploy-LambdaApplication/assets/91665833/d15dd049-3653-4005-a080-c71198afe196)
+
+### API Gateway also attached to the lambda
+
+![image](https://github.com/felixdagnon/CICDFlow-CodeDeploy-LambdaApplication/assets/91665833/b2e184e6-781b-483d-8169-3bb24e7aa515)
+
+### The lambda code 
+
+
+
+
+
+
+
+
+
 
 
 
