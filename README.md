@@ -185,6 +185,8 @@ Pipeline looking
 
 ### The lambda code 
 
+![image](https://github.com/felixdagnon/CICDFlow-CodeDeploy-LambdaApplication/assets/91665833/bf481136-0ca1-4173-8839-6d484cfe24ea)
+
 
 
 
