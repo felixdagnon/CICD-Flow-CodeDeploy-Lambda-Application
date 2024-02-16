@@ -88,7 +88,6 @@ This is the template.yml file which will create a lambda function and a API Gate
 ![image](https://github.com/felixdagnon/CICDFlow-CodeDeploy-LambdaApplication/assets/91665833/cdc82ad6-7435-4b2b-b99d-43b0c4bac920)
 
 
-
 ## Create Pipeline
 
 Now let's create Pipeline
