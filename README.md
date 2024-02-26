@@ -41,7 +41,7 @@ and created ajson inline policy named — “policyToDeployUsingCloudFormation�
 ![image](https://github.com/felixdagnon/CICDFlow-CodeDeploy-LambdaApplication/assets/91665833/39a3c393-ad68-4345-84ec-c87972f88129)
 
 
-## Create CodeCommit Repo and put the staff in
+## Create CodeCommit Repo and push in the codes 
 
 let's create a CodeCommit repository first called codepipeline-lambda-demo and push our code from Cloud9 IDE.
 
