@@ -11,7 +11,7 @@ Follow Best Practices for Cloud Security with AWS IAM: Managing Groups, Policies
 ![image](https://github.com/felixdagnon/CICDFlow-CodeDeploy-LambdaApplication/assets/91665833/19d85248-91dd-4967-8b06-7152609ce845)
 
 
-# IAM Roles and policies 
+# 1-IAM Roles and policies 
 
 lets create some IAM role and policies that will allow us to create the pipeline.
 
@@ -36,7 +36,7 @@ and created ajson inline policy named — “policyToDeployUsingCloudFormation�
 ![image](https://github.com/felixdagnon/CICDFlow-CodeDeploy-LambdaApplication/assets/91665833/019c1e85-1d81-4a72-a953-9afae736250f)
 
 
-## Create S3 bucket for CodePipeline
+# 2-Create S3 bucket for CodePipeline
 
 ![image](https://github.com/felixdagnon/CICDFlow-CodeDeploy-LambdaApplication/assets/91665833/39a3c393-ad68-4345-84ec-c87972f88129)
 
@@ -49,13 +49,15 @@ I will store all code in CodeCommit repository
 
 ![image](https://github.com/felixdagnon/CICDFlow-CodeDeploy-LambdaApplication/assets/91665833/802323ca-7154-4340-9907-587719e89065)
 
+# 3-Cloud9 clone CodeCommit repo
+
 Clone the repo in Cloud9 and upload files.
 
 I use git commands (git add -A,  git commit -m "Add sample application file", git push)
 
 ![image](https://github.com/felixdagnon/CICDFlow-CodeDeploy-LambdaApplication/assets/91665833/9dc84819-cfcb-48b7-aeb7-194a8783fde7)
 
-Code files pushed in CodeCommit repo
+# 4-Code files pushed in CodeCommit repo
 
 Ok there are three files:
 
@@ -88,7 +90,7 @@ This is the template.yml file which will create a lambda function and a API Gate
 ![image](https://github.com/felixdagnon/CICDFlow-CodeDeploy-LambdaApplication/assets/91665833/cdc82ad6-7435-4b2b-b99d-43b0c4bac920)
 
 
-## Create Pipeline
+# 5-Create Pipeline
 
 Now let's create Pipeline
 
